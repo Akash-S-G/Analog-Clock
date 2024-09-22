@@ -7,7 +7,7 @@
 html,body{
     height:100%;
     width:100%;
-    background: radial-gradient(#5948c1, #4a47bd7a);
+  background-color: rgb(21, 20, 49);
 }
 #main{
     margin-top: 50%;
