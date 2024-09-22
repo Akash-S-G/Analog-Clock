@@ -7,9 +7,10 @@
 html,body{
     height:100%;
     width:100%;
+    background: radial-gradient(#5948c1, #4a47bd7a);
 }
 #main{
-    margin-top: 40vh;
+    margin-top: 50%;
 }
 
 #clockcontainer{
