@@ -1,1 +1,1 @@
-I made a Analog-Clock using html and css
+I made an Analog-Clock using html and css
